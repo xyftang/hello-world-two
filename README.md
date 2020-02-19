@@ -1,3 +1,3 @@
 # hello-world-two
-test
+test.
 The first two lines are crazy!
